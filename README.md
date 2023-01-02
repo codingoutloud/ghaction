@@ -1,14 +1,6 @@
-# eslint-config-standard 
 [![CI][ci-image]][ci-url]
-[![CI][ci-image2]][ci-url]
-[![CI][ci-image3]][ci-url]
-[![CI][ci-image4]][ci-url]
 
-[ci-image]: https://github.com/codingoutloud/ghaction/workflows/eslint.yml/badge.svg?branch=master
-[ci-image2]: https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml/badge.svg?branch=master
-[ci-image3]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg?branch=master
-[ci-image4]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg
-
+[ci-image]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg
 [ci-url]: https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml
 
 # yes
