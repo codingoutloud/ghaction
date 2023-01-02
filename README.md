@@ -5,6 +5,8 @@
 [ci-image]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg
 [ci-url]: https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml
 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
 # yes
 
 https://github.com/<org>/<repo>/actions/workflows/<filename>/badge.svg
