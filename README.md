@@ -3,7 +3,7 @@
 [![CI][ci-image]][ci-url]
 
 [ci-image]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg?event=push
-[ci-url]: https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml
+[ci-url]: https://github.com/codingoutloud/ghaction/security/code-scanning
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
