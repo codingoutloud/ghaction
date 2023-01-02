@@ -1,5 +1,5 @@
 //var x = 1;
-//y = 2;
+y = 2;
 
 console.log("this is noisy");
 
