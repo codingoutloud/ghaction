@@ -9,6 +9,9 @@
 
 ![GitHub Actions status | codingoutloud/ghaction](https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg)](https://github.com/codingoutloud/ghaction/actions?workflow=ESLint)
 
+
+[![example workflow](https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml/badge.svg?event=push)]
+
 # yes
 
 https://github.com/<org>/<repo>/actions/workflows/<filename>/badge.svg
