@@ -48,5 +48,4 @@ jobs:
         with:
           sarif_file: eslint-results.sarif
           wait-for-processing: true
-          eslint: true
-          prettier: false
+
