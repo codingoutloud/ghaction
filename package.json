@@ -1,0 +1,22 @@
+{
+  "name": "ghaction",
+  "version": "1.0.0",
+  "description": "Example gh action",
+  "main": "noisy.js",
+  "scripts": {
+    "test": "./go.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingoutloud/ghaction.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingoutloud/ghaction/issues"
+  },
+  "homepage": "https://github.com/codingoutloud/ghaction#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}
