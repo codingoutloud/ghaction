@@ -1,3 +1,5 @@
+[![PRs Are Most Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
+
 [![CI][ci-image]][ci-url]
 
 [ci-image]: https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg
