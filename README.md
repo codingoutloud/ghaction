@@ -7,6 +7,8 @@
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+![GitHub Actions status | codingoutloud/ghaction](https://github.com/codingoutloud/ghaction/workflows/ESLint/badge.svg)](https://github.com/codingoutloud/ghaction/actions?workflow=ESLint)
+
 # yes
 
 https://github.com/<org>/<repo>/actions/workflows/<filename>/badge.svg
