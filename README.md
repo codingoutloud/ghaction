@@ -9,6 +9,7 @@
 
 [ci-url]: https://github.com/codingoutloud/ghaction/actions/workflows/eslint.yml
 
+# yes
 
 https://github.com/<org>/<repo>/actions/workflows/<filename>/badge.svg
 https://github.com/<org>/<repo>/workflows/<workflow-name>/badge.svg
